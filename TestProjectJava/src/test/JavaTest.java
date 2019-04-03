@@ -6,6 +6,9 @@ public class JavaTest {
 		// TODO Auto-generated method stub
 		//test java
 		System.out.println("test java");
+		for(int i=0;i<5;i++) {
+			System.out.println("i is "+i);
+		}
 
 	}
 
